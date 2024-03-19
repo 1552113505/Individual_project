@@ -1,0 +1,27 @@
+common:
+  model_names:
+    - llama2
+    - zephyr
+    - vicuna
+  years:
+    - 19
+    - 20
+  first_stage_results:
+    - bm25
+    - splade
+  topk:
+#    - 20
+    - 100
+
+experiment_1: {}
+
+experiment_2:
+  ks: [1, 2, 3]
+  is_random_opts:
+    - true
+    - false
+    
+experiment_3:
+  other_prompts:
+    - explanation
+    - ablation
