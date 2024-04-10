@@ -1,0 +1,9 @@
+ir_datasets==0.5.6
+ir_measures==0.3.3
+pandas==2.0.3
+python_terrier==0.10.0
+PyYAML==6.0
+PyYAML==6.0.1
+torch==2.0.0+cu118
+tqdm==4.61.2
+transformers==4.38.1

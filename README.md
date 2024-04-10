@@ -8,12 +8,12 @@ This project provides an evaluation framework for reranking tasks on the TREC-DL
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/1552113505/Individual_project.git
 ```
 
 2. Install dependencies:
 ```bash
-cd <repository-name>
+cd Individual_project
 pip install -r requirements.txt   
 ```
 
